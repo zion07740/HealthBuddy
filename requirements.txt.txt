@@ -1,1 +1,5 @@
-streamlit==1.37.0
+git clone https://github.com/zion07740/HealthBuddy.git
+cd HealthBuddy
+git rm "requirements.txt.txt"
+git commit -m "Remove duplicate requirements file"
+git push
